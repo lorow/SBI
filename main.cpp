@@ -2,10 +2,11 @@
 
 class Brainfuck
 {
-public:
+private:
     char data[30000];
     char *dataPointer;
     const char *programPointer;
+public:
     Brainfuck(const char prog[]) {
         dataPointer = data;
         programPointer = prog;
