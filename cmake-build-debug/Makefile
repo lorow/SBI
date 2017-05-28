@@ -123,6 +123,33 @@ untitled1/fast:
 	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/build
 .PHONY : untitled1/fast
 
+BFCompiler.o: BFCompiler.cpp.o
+
+.PHONY : BFCompiler.o
+
+# target to build an object file
+BFCompiler.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/BFCompiler.cpp.o
+.PHONY : BFCompiler.cpp.o
+
+BFCompiler.i: BFCompiler.cpp.i
+
+.PHONY : BFCompiler.i
+
+# target to preprocess a source file
+BFCompiler.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/BFCompiler.cpp.i
+.PHONY : BFCompiler.cpp.i
+
+BFCompiler.s: BFCompiler.cpp.s
+
+.PHONY : BFCompiler.s
+
+# target to generate assembly for a file
+BFCompiler.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled1.dir/build.make CMakeFiles/untitled1.dir/BFCompiler.cpp.s
+.PHONY : BFCompiler.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled1"
+	@echo "... BFCompiler.o"
+	@echo "... BFCompiler.i"
+	@echo "... BFCompiler.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -6,7 +6,27 @@
 
 #IncludeRegexTransform: 
 
+/home/lorow/CLionProjects/brainfuckInterpreter/BFCompiler.cpp
+array
+-
+iostream
+-
+BFCompiler.h
+/home/lorow/CLionProjects/brainfuckInterpreter/BFCompiler.h
+
+/home/lorow/CLionProjects/brainfuckInterpreter/BFCompiler.h
+
+/home/lorow/CLionProjects/brainfuckInterpreter/CommandHandler.h
+algorithm
+-
+iostream
+-
+
 /home/lorow/CLionProjects/brainfuckInterpreter/main.cpp
 iostream
 -
+algorithm
+-
+CommandHandler.h
+/home/lorow/CLionProjects/brainfuckInterpreter/CommandHandler.h
 

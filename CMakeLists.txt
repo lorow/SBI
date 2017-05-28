@@ -3,5 +3,5 @@ project(untitled1)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES main.cpp CommandHandler.h)
 add_executable(untitled1 ${SOURCE_FILES})

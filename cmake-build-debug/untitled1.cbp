@@ -82,6 +82,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/lorow/CLionProjects/brainfuckInterpreter/BFCompiler.cpp">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/lorow/CLionProjects/brainfuckInterpreter/BFCompiler.h">
+			<Option target="untitled1"/>
+		</Unit>
+		<Unit filename="/home/lorow/CLionProjects/brainfuckInterpreter/CommandHandler.h">
+			<Option target="untitled1"/>
+		</Unit>
 		<Unit filename="/home/lorow/CLionProjects/brainfuckInterpreter/main.cpp">
 			<Option target="untitled1"/>
 		</Unit>
