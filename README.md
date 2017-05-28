@@ -1,2 +1,2 @@
-# SimpleBrainfuckInterpreter
-SBI is a simple, commandline and easy to use brainfuck interpreter.
+# Simple Brainfuck (pseudo) compiler
+SBC is a simple, commandline and easy to use brainfuck (pseudo) compiler.
