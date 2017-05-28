@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.7)
-project(untitled1)
+project(SBC)
 
 set(CMAKE_CXX_STANDARD 14)
 
 set(SOURCE_FILES main.cpp CommandHandler.h)
-add_executable(untitled1 ${SOURCE_FILES})
+add_executable(SBC ${SOURCE_FILES})
