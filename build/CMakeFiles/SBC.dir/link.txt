@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/SBC.dir/main.cpp.o  -o SBC 
