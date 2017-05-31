@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lorow/CLionProjects/SBC/CommandHandler.h
+algorithm
+-
+iostream
+-
+
+/home/lorow/CLionProjects/SBC/Compiler.h
+iostream
+-
+fstream
+-
+
+/home/lorow/CLionProjects/SBC/main.cpp
+iostream
+-
+algorithm
+-
+CommandHandler.h
+/home/lorow/CLionProjects/SBC/CommandHandler.h
+Compiler.h
+/home/lorow/CLionProjects/SBC/Compiler.h
+
