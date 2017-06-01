@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lorow/CLionProjects/SBC/Brainfuck.h
+iostream
+-
+
+/home/lorow/CLionProjects/SBC/CommandHandler.h
+algorithm
+-
+iostream
+-
+
+/home/lorow/CLionProjects/SBC/main.cpp
+fstream
+-
+iostream
+-
+Brainfuck.h
+/home/lorow/CLionProjects/SBC/Brainfuck.h
+CommandHandler.h
+/home/lorow/CLionProjects/SBC/CommandHandler.h
+
