@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/lorow/CLionProjects/SBC/Brainfuck.h
+/home/lorow/CLionProjects/SBC/brainfuck/Brainfuck.h
+interpreter/interpreter.h
+/home/lorow/CLionProjects/SBC/brainfuck/interpreter/interpreter.h
+
+/home/lorow/CLionProjects/SBC/brainfuck/interpreter/interpreter.h
 iostream
 -
 
-/home/lorow/CLionProjects/SBC/CommandHandler.h
+/home/lorow/CLionProjects/SBC/commands/CommandHandler.h
 algorithm
 -
 iostream
@@ -21,8 +25,8 @@ fstream
 -
 iostream
 -
-Brainfuck.h
-/home/lorow/CLionProjects/SBC/Brainfuck.h
-CommandHandler.h
-/home/lorow/CLionProjects/SBC/CommandHandler.h
+brainfuck/Brainfuck.h
+/home/lorow/CLionProjects/SBC/brainfuck/Brainfuck.h
+commands/CommandHandler.h
+/home/lorow/CLionProjects/SBC/commands/CommandHandler.h
 
