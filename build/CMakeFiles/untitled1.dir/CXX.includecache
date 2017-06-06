@@ -9,9 +9,21 @@
 /home/lorow/CLionProjects/SBC/brainfuck/Brainfuck.h
 interpreter/interpreter.h
 /home/lorow/CLionProjects/SBC/brainfuck/interpreter/interpreter.h
+translator/translator.h
+/home/lorow/CLionProjects/SBC/brainfuck/translator/translator.h
 
 /home/lorow/CLionProjects/SBC/brainfuck/interpreter/interpreter.h
 iostream
+-
+
+/home/lorow/CLionProjects/SBC/brainfuck/translator/translator.h
+fstream
+-
+iterator
+-
+string
+-
+vector
 -
 
 /home/lorow/CLionProjects/SBC/commands/CommandHandler.h

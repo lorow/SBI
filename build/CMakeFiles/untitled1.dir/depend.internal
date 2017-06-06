@@ -4,5 +4,6 @@
 CMakeFiles/untitled1.dir/main.cpp.o
  /home/lorow/CLionProjects/SBC/brainfuck/Brainfuck.h
  /home/lorow/CLionProjects/SBC/brainfuck/interpreter/interpreter.h
+ /home/lorow/CLionProjects/SBC/brainfuck/translator/translator.h
  /home/lorow/CLionProjects/SBC/commands/CommandHandler.h
  /home/lorow/CLionProjects/SBC/main.cpp

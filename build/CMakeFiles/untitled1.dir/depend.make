@@ -3,6 +3,7 @@
 
 CMakeFiles/untitled1.dir/main.cpp.o: ../brainfuck/Brainfuck.h
 CMakeFiles/untitled1.dir/main.cpp.o: ../brainfuck/interpreter/interpreter.h
+CMakeFiles/untitled1.dir/main.cpp.o: ../brainfuck/translator/translator.h
 CMakeFiles/untitled1.dir/main.cpp.o: ../commands/CommandHandler.h
 CMakeFiles/untitled1.dir/main.cpp.o: ../main.cpp
 
