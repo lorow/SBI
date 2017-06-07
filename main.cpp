@@ -1,8 +1,8 @@
 #include <fstream>
 #include <iostream>
 
-#include "Brainfuck.h"
-#include "CommandHandler.h"
+#include "brainfuck/Brainfuck.h"
+#include "commands/CommandHandler.h"
 
 void help() {
     std::cout << "Welcome to SBI aka Simple Brainfuck Interpreter! \n";
@@ -36,7 +36,11 @@ int main(int argc, char *argv[]) {
         else if (cmdh.cmdOptionExists(argv, argv + argc, "-I")) {
             auto address = cmdh.getCmdOption(argv, argv + argc, "-I");
             loadFile(data, address);
-            brainfuck.interpret(data.c_str());
+            brainfuck.interpret.interpret(data.c_str());
+        } else if (cmdh.cmdOptionExists(argv, argv + argc, "-T"))
+        {
+            auto addr = cmdh.getCmdOption(argv, argv+argc, "-T");
+            brainfuck.translate.translate(addr);
         }
 
     } else

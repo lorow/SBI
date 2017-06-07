@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -17,13 +17,13 @@ iostream
 -
 
 /home/lorow/CLionProjects/SBC/brainfuck/translator/translator.h
-string
--
 fstream
 -
-vector
--
 iterator
+-
+string
+-
+vector
 -
 
 /home/lorow/CLionProjects/SBC/commands/CommandHandler.h
