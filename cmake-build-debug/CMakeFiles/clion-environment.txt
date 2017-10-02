@@ -1,2 +1,2 @@
 Options: 
-CMake: 3.7.1@/opt/clion/bin/cmake/bin/cmake
+CMake: 3.8.2@/home/lorow/clion-2017.2.1/bin/cmake/bin/cmake

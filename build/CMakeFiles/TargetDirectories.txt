@@ -1,3 +1,0 @@
-/home/lorow/CLionProjects/SBC/build/CMakeFiles/edit_cache.dir
-/home/lorow/CLionProjects/SBC/build/CMakeFiles/rebuild_cache.dir
-/home/lorow/CLionProjects/SBC/build/CMakeFiles/SBI.dir

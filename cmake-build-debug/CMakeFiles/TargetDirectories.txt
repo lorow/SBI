@@ -1,3 +1,3 @@
-/home/lorow/CLionProjects/SBC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/lorow/CLionProjects/SBC/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/lorow/CLionProjects/SBC/cmake-build-debug/CMakeFiles/untitled1.dir
+/home/lorow/ClionProjects/SBI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lorow/ClionProjects/SBI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lorow/ClionProjects/SBI/cmake-build-debug/CMakeFiles/SBI.dir

@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/lorow/CLionProjects/SBC/build",
-  "command": "/usr/bin/c++      -std=gnu++14 -o CMakeFiles/SBI.dir/main.cpp.o -c /home/lorow/CLionProjects/SBC/main.cpp",
-  "file": "/home/lorow/CLionProjects/SBC/main.cpp"
-}
-]

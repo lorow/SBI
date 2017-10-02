@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lorow/ClionProjects/SBI/main.cpp
+fstream
+-
+iostream
+-
+src/brainfuck/Brainfuck.h
+/home/lorow/ClionProjects/SBI/src/brainfuck/Brainfuck.h
+src/commands/CommandHandler.h
+/home/lorow/ClionProjects/SBI/src/commands/CommandHandler.h
+
+/home/lorow/ClionProjects/SBI/src/brainfuck/Brainfuck.h
+interpreter/interpreter.h
+/home/lorow/ClionProjects/SBI/src/brainfuck/interpreter/interpreter.h
+translator/translator.h
+/home/lorow/ClionProjects/SBI/src/brainfuck/translator/translator.h
+
+/home/lorow/ClionProjects/SBI/src/brainfuck/interpreter/interpreter.h
+iostream
+-
+vector
+-
+
+/home/lorow/ClionProjects/SBI/src/brainfuck/translator/translator.h
+fstream
+-
+iterator
+-
+string
+-
+vector
+-
+
+/home/lorow/ClionProjects/SBI/src/commands/CommandHandler.h
+algorithm
+-
+iostream
+-
+
